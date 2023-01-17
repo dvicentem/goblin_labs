@@ -36,10 +36,10 @@ jupyter-events==0.6.3
 jupyter_client==7.4.9
 jupyter_core==4.12.0
 jupyter_server
-jupyter_server_terminals==0.4.4
-jupyterlab==3.5.2
-jupyterlab-pygments==0.2.2
-jupyterlab_server==2.19.0
+jupyter_server_terminals
+jupyterlab
+jupyterlab-pygments
+jupyterlab_server
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
 mistune==2.0.4
