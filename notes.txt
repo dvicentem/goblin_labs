@@ -1,0 +1,2 @@
+ipython kernel install --user --name=goblin_venv
+https://github.com/pyenv/pyenv#understanding-shims
